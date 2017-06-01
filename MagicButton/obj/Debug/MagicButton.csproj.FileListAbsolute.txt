@@ -1,0 +1,70 @@
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\roslyn\csc.exe
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\roslyn\vbc.exe
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\roslyn\VBCSCompiler.exe
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\MagicButton.dll.config
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\MagicButton.dll
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\MagicButton.pdb
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\System.Web.Helpers.dll
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\System.Web.Mvc.dll
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\System.Web.Razor.dll
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\System.Web.Webpages.Deployment.dll
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\System.Web.Webpages.dll
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\System.Web.Webpages.Razor.dll
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\System.Web.Razor.xml
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\System.Web.Webpages.xml
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\System.Web.Webpages.Deployment.xml
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\System.Web.Webpages.Razor.xml
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\System.Web.Helpers.xml
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\bin\System.Web.Mvc.xml
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\obj\Debug\MagicButton.csprojResolveAssemblyReference.cache
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\obj\Debug\MagicButton.dll
+c:\users\mark.mendoza\documents\visual studio 2015\Projects\MagicButton\MagicButton\obj\Debug\MagicButton.pdb
+C:\flatplanettest\MagicButton\bin\roslyn\csc.exe
+C:\flatplanettest\MagicButton\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\flatplanettest\MagicButton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\flatplanettest\MagicButton\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\flatplanettest\MagicButton\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\flatplanettest\MagicButton\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\flatplanettest\MagicButton\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\flatplanettest\MagicButton\bin\roslyn\System.Collections.Immutable.dll
+C:\flatplanettest\MagicButton\bin\roslyn\System.Reflection.Metadata.dll
+C:\flatplanettest\MagicButton\bin\roslyn\vbc.exe
+C:\flatplanettest\MagicButton\bin\roslyn\VBCSCompiler.exe
+C:\flatplanettest\MagicButton\bin\roslyn\VBCSCompiler.exe.config
+C:\flatplanettest\MagicButton\bin\MagicButton.dll.config
+C:\flatplanettest\MagicButton\bin\MagicButton.dll
+C:\flatplanettest\MagicButton\bin\MagicButton.pdb
+C:\flatplanettest\MagicButton\bin\EntityFramework.dll
+C:\flatplanettest\MagicButton\bin\EntityFramework.SqlServer.dll
+C:\flatplanettest\MagicButton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\flatplanettest\MagicButton\bin\Microsoft.Web.Infrastructure.dll
+C:\flatplanettest\MagicButton\bin\System.Web.Helpers.dll
+C:\flatplanettest\MagicButton\bin\System.Web.Mvc.dll
+C:\flatplanettest\MagicButton\bin\System.Web.Razor.dll
+C:\flatplanettest\MagicButton\bin\System.Web.Webpages.Deployment.dll
+C:\flatplanettest\MagicButton\bin\System.Web.Webpages.dll
+C:\flatplanettest\MagicButton\bin\System.Web.Webpages.Razor.dll
+C:\flatplanettest\MagicButton\bin\EntityFramework.xml
+C:\flatplanettest\MagicButton\bin\EntityFramework.SqlServer.xml
+C:\flatplanettest\MagicButton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\flatplanettest\MagicButton\bin\System.Web.Razor.xml
+C:\flatplanettest\MagicButton\bin\System.Web.Webpages.xml
+C:\flatplanettest\MagicButton\bin\System.Web.Webpages.Deployment.xml
+C:\flatplanettest\MagicButton\bin\System.Web.Webpages.Razor.xml
+C:\flatplanettest\MagicButton\bin\System.Web.Helpers.xml
+C:\flatplanettest\MagicButton\bin\System.Web.Mvc.xml
+C:\flatplanettest\MagicButton\obj\Debug\MagicButton.dll
+C:\flatplanettest\MagicButton\obj\Debug\MagicButton.pdb
+C:\flatplanettest\MagicButton\obj\Debug\MagicButton.csprojResolveAssemblyReference.cache
